@@ -20,6 +20,7 @@ iframe {
 .frame-wrap {
   width: 45vw;
   height: 40vh;
+  min-height: 40vh;
   min-width: 45vw;
   margin: 0 2vw;
 }
